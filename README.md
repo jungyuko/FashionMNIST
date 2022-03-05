@@ -32,8 +32,7 @@
     * 분류를 위한 문제에서는 Cross Entropy Loss를 사용하는 것이 일반적임
 
 ## Result
-<center><img align='left' src="./fig/train_loss(DNN).png" width="50%" height="50%"></center>
-<center><img align='right' src="./fig/train_loss(CNN).png" width="50%" height="50%"></center>
+<center><img src="./fig/train_loss.PNG" width="50%" height="50%"></center>
 
 
 * 왼쪽의 이미지: DNN의 Loss 결과 <br/>
