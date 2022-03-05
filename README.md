@@ -32,14 +32,14 @@
     * 분류를 위한 문제에서는 Cross Entropy Loss를 사용하는 것이 일반적임
 
 ## Result
-<center><img src="./fig/train_loss.PNG" width="50%" height="50%"></center>
+<center><img src="./fig/train_loss.PNG"></center>
 
 
 * 왼쪽의 이미지: DNN의 Loss 결과 <br/>
   오른쪽의 이미지: CNN의 Loss 결과 
 * CNN이 loss가 더 낮게 떨어지는 것을 확인할 수 있다.
 
-<center><img src="./fig/acc.PNG" width="50%" height="50%"></center>
+<center><img src="./fig/acc.PNG"></center>
 
 
 * 왼쪽 이미지: test 데이터에 대한 DNN accuarcy 결과 <br/>
