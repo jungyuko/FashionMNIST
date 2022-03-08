@@ -2,7 +2,8 @@
 **고준규**
 
 아래 포스팅의 실습 자료입니다.
-[DNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/2)
+
+[DNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/2)<br/>
 [CNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/3)
 
 ---
