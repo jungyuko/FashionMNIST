@@ -1,9 +1,9 @@
 # Fashion MNIST 데이터셋을 활용한 분류 모델 구현
 **고준규**
 
-해당 포스팅의 실습 자료입니다.
-![DNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/2)
-![CNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/3)
+아래 포스팅의 실습 자료입니다.
+[DNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/2)
+[CNN을 사용한 Fashion MNIST 분류모델 생성](https://jungyuko.tistory.com/3)
 
 ---
 ## Task
